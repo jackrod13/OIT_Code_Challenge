@@ -1,0 +1,45 @@
+# Build results
+bin/
+obj/
+out/
+TestResults/
+*.user
+*.suo
+
+# Visual Studio cache files
+.vs/
+.vscode/
+_ReSharper*/
+*.ncb
+*.aps
+*.sdf
+*.cache
+*.dbmdl
+*.bak
+
+# ASP.NET Secrets
+secrets.json
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# IIS Express
+*.vspscc
+*.vssscc
+.vs/
+
+# Dotnet CLI
+.project.lock.json
+project.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+*.snupkg
+*.symbols.nupkg
